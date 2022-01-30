@@ -1,0 +1,2082 @@
+{
+    "success": true,
+    "count": 11,
+    "rows": [
+        {
+            "guid": "ad991406-0bf2-46a4-bdcb-734097e2bb9c",
+            "name": "Основное меню",
+            "priority": 0,
+            "categoryList": [],
+            "itemList": [
+                {
+                    "guid": "eeff4fa4-5352-44a5-ae94-5c70aa6470ab",
+                    "name": "Эспресо",
+                    "priority": 15000,
+                    "typeList": [
+                        {
+                            "guid": "abfc1e4e-c3c2-47cf-b3b4-d0a1eea71904",
+                            "name": "110мл",
+                            "price": 22.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "d0dc03b2-22b6-4b1e-967e-8c3b02c97a6d",
+                            "name": "110мл",
+                            "price": 22.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "90b21e5f-31e4-4fcf-b47e-a7cef81bd920",
+                    "name": "Капучино",
+                    "priority": 15005,
+                    "typeList": [
+                        {
+                            "guid": "44b60730-a247-48b6-a43b-fc797c00fa50",
+                            "name": "180мл",
+                            "price": 34.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "80b712fb-b607-45eb-971a-e07bfe4d09c6",
+                            "name": "350мл",
+                            "price": 54.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "8b9d849f-8d80-46a2-96a7-90dae6aaa23c",
+                            "name": "С СОБОЙ 180",
+                            "price": 34.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "e63d9639-e06b-4bec-89ad-d9a33386a247",
+                            "name": "С СОБОЙ 350",
+                            "price": 54.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "62c44db1-85c2-4d4f-9011-8819ac3682a8",
+                    "name": "Латте",
+                    "priority": 15007,
+                    "typeList": [
+                        {
+                            "guid": "6d086bb6-34fe-457f-ae2d-197cf11a7d9f",
+                            "name": "250мл",
+                            "price": 37.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "f26e36e1-42f9-4320-ba9c-e1c7875926b3",
+                            "name": "500мл",
+                            "price": 61.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "32fc6bae-16be-4660-9622-f686193a7c34",
+                            "name": "С СОБОЙ 250",
+                            "price": 37.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "f7767c67-a2c0-4b19-8fdd-885ac8d87eb7",
+                            "name": "С СОБОЙ 500",
+                            "price": 61.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "c0cc547b-6457-442e-a42c-1bb8c7abbb9a",
+                    "name": "Флет Уайт",
+                    "priority": 15008,
+                    "typeList": [
+                        {
+                            "guid": "3b72df89-2e8e-4649-816f-30149a2114c1",
+                            "name": "180мл",
+                            "price": 45.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "00063a21-0345-4421-aa79-93291177c525",
+                            "name": "350мл",
+                            "price": 61.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "df62a427-0265-48d7-bb25-b9509f21f3ff",
+                            "name": "С СОБОЙ 180",
+                            "price": 45.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "c89bcc3f-c282-48b3-b773-d37bca091d49",
+                            "name": "С СОБОЙ 350",
+                            "price": 61.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "1b89264e-baf8-4804-a7c5-d36f4f36ab7f",
+                    "name": "Доппио",
+                    "priority": 15001,
+                    "typeList": [
+                        {
+                            "guid": "4166b6d3-ca22-460f-b7fd-e29583515c93",
+                            "name": "110мл",
+                            "price": 34.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "ee6eb7fc-980e-46e2-9bca-fc67b9b1ae12",
+                            "name": "С СОБОЙ 180",
+                            "price": 34.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "ec2a2007-ce69-4e56-aedf-72cc4dc83160",
+                    "name": "Фильтр кофе",
+                    "priority": 15003,
+                    "typeList": [
+                        {
+                            "guid": "8bdfe501-f6f5-43d7-81e6-4adc14a1f7ab",
+                            "name": "250мл",
+                            "price": 30.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "7f6fb189-993c-4c4f-817d-6bd923df288d",
+                            "name": "500мл",
+                            "price": 50.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "b4155b2b-7d44-4543-8512-d96b47887e60",
+                            "name": "С СОБОЙ 250",
+                            "price": 30.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "1b48765f-9b69-4b5b-b6e9-b604b2b4344d",
+                            "name": "С СОБОЙ 500",
+                            "price": 50.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "c9611062-7fca-401e-af8b-0a1288f37559",
+                    "name": "Капучино сет",
+                    "priority": 15006,
+                    "typeList": [
+                        {
+                            "guid": "ee645f37-d8e1-49a7-a338-1e650ccf25d3",
+                            "name": "180мл",
+                            "price": 42.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "4cf536a6-62ad-4736-a2ff-1ff30399ffd6",
+                            "name": "180мл",
+                            "price": 42.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "da4d0e0e-36d6-4a91-80aa-729c2a945d77",
+                    "name": "РАФ",
+                    "priority": 15009,
+                    "typeList": [
+                        {
+                            "guid": "647d1248-c5df-4aa3-8714-53d0dc82e276",
+                            "name": "180мл",
+                            "price": 45.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "9fce2eb0-5e05-40e8-b415-8dcc34b480b9",
+                            "name": "350мл",
+                            "price": 61.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "4a35888b-6ec1-41ae-b558-fa1c5f2d5811",
+                            "name": "С СОБОЙ 180",
+                            "price": 45.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "1c3724ac-2fb8-4f03-85d8-477955d318ea",
+                            "name": "С СОБОЙ 350",
+                            "price": 61.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "b8778f5b-46f4-401c-9e0d-d2ee13069e66",
+                    "name": "Заварной чай",
+                    "priority": 15010,
+                    "typeList": [
+                        {
+                            "guid": "1b34f87d-6946-4fa6-a9d4-fad8c508394f",
+                            "name": "250мл",
+                            "price": 30.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "554609f0-ff19-45a2-b0ce-0ec44ec39fad",
+                            "name": "500мл",
+                            "price": 50.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "a2778578-96c7-47f2-90a7-7dc9c4265885",
+                            "name": "С СОБОЙ 250",
+                            "price": 30.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "9a5711f8-b471-439e-8b95-1633317aef42",
+                            "name": "С СОБОЙ 350",
+                            "price": 30.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "eb998a65-43e2-40a2-b93c-a48b7b74c87d",
+                    "name": "Авторский чай",
+                    "priority": 15011,
+                    "typeList": [
+                        {
+                            "guid": "6ee73c02-89d8-4220-b273-7b0bc1b8abf1",
+                            "name": "500мл",
+                            "price": 40.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "5e478745-292d-4e8f-b583-e193232bc654",
+                            "name": "500мл",
+                            "price": 70.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "d553f6a9-682e-4315-a86b-b11662030bdd",
+                            "name": "С СОБОЙ 500",
+                            "price": 40.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "815a3102-b64f-4f42-a44b-36132c3be22f",
+                    "name": "Айриш",
+                    "priority": 15012,
+                    "typeList": [
+                        {
+                            "guid": "a60f9db8-971d-4abe-b13b-fb094569d8b3",
+                            "name": "350мл",
+                            "price": 50.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "b63e3879-c46f-463d-9ddd-729edde7809e",
+                            "name": "С СОБОЙ 350",
+                            "price": 50.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": [
+                        "a864ba10-cc5f-41f8-b05b-94ecd959556d"
+                    ]
+                },
+                {
+                    "guid": "871af998-197a-4352-a263-409d312606e1",
+                    "name": "Фреш капучино",
+                    "priority": 15013,
+                    "typeList": [
+                        {
+                            "guid": "50cdc36b-45c1-4695-ba33-8c9406b7b6b4",
+                            "name": "180мл",
+                            "price": 40.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "434454a5-4a1d-4af4-981d-13c896f73990",
+                            "name": "350мл",
+                            "price": 70.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "ff39fb45-9bba-4f28-87c8-9269a226b5e4",
+                            "name": "С СОБОЙ 180",
+                            "price": 40.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "75d23def-b0a8-44d6-842b-526ef92bb537",
+                            "name": "С СОБОЙ 350",
+                            "price": 70.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "f584255d-4508-41a6-988b-907dc23b809e",
+                    "name": "Матча Латте",
+                    "priority": 15014,
+                    "typeList": [
+                        {
+                            "guid": "36c8c141-755d-46be-a786-db5bec02777a",
+                            "name": "250мл",
+                            "price": 48.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "7bc535a8-e56e-4ead-a145-45d1c6b304c8",
+                            "name": "С СОБОЙ 250",
+                            "price": 48.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "09940687-96ab-41ac-84b1-3a6253548db5",
+                    "name": "Какао",
+                    "priority": 15015,
+                    "typeList": [
+                        {
+                            "guid": "96dfd581-fd88-43c3-bb4b-c6879f447053",
+                            "name": "250мл",
+                            "price": 30.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "06d4625f-1b4f-4ad6-b76c-b6162e1425dd",
+                            "name": "350мл",
+                            "price": 40.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "d392659a-1e5f-4fc5-8e07-ed5aa1d74184",
+                            "name": "С СОБОЙ 250",
+                            "price": 30.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "d4a3164d-dda5-4360-9c30-d29767e3c73c",
+                            "name": "С СОБОЙ 350",
+                            "price": 40.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "e9a7e3c0-6691-4b21-9c00-3d0adfaddc5a",
+                    "name": "БИЧЕРИН",
+                    "priority": 15016,
+                    "typeList": [
+                        {
+                            "guid": "7fe9901a-304d-4acd-8a7c-53488a041987",
+                            "name": "250мл",
+                            "price": 50.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "bd623fd5-afb9-4f8f-ae04-9e556943d4ec",
+                            "name": "С СОБОЙ 250",
+                            "price": 50.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "33cad4b0-cc5b-4209-a495-d8686f3f6481",
+                    "name": "Горячий шоколад",
+                    "priority": 15017,
+                    "typeList": [
+                        {
+                            "guid": "0e378189-b206-44de-a878-0c7e5c927244",
+                            "name": "180мл",
+                            "price": 35.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "ddff580a-385f-4ba3-ad53-5458d98318c4",
+                            "name": "С СОБОЙ 180",
+                            "price": 35.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "f42a67bf-18e7-4cf8-84d4-4ff95450bc1e",
+                    "name": "Американо",
+                    "priority": 15002,
+                    "typeList": [
+                        {
+                            "guid": "d15e168c-0cf1-4cc3-bd44-74de3aba4c8f",
+                            "name": "180мл",
+                            "price": 22.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "6e3b78c2-00a7-4de3-8b79-01baee495a3c",
+                            "name": "350мл",
+                            "price": 34.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "2b498b9d-5de1-4c9a-901a-26b65866d300",
+                            "name": "С СОБОЙ 180",
+                            "price": 22.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "e07ddcfc-82fe-40e0-b37d-d7e6a74bf727",
+                            "name": "С СОБОЙ 350",
+                            "price": 34.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "28f00c76-c138-4f11-a306-215b35016ca8",
+                    "name": "V-60",
+                    "priority": 15004,
+                    "typeList": [
+                        {
+                            "guid": "ff2c775b-5355-47a1-8be6-6f42da2fa5a2",
+                            "name": "250мл",
+                            "price": 45.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "68c1b4d7-9d05-4a76-856b-cac01e606472",
+                            "name": "С СОБОЙ 250",
+                            "price": 45.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "a9539a29-5fe8-4b9a-bc05-9ee6997789a7",
+                    "name": "Какао СССР",
+                    "priority": 15018,
+                    "typeList": [
+                        {
+                            "guid": "e830f7d8-c954-4bd3-a45d-7e39f4ea4ff6",
+                            "name": "350мл",
+                            "price": 48.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "dd08c1fc-acf8-42c2-a9f7-f7b657d7a0c6",
+                            "name": "С СОБОЙ 350",
+                            "price": 48.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                }
+            ],
+            "goodsList": [],
+            "comboList": null
+        },
+        {
+            "guid": "d1e67443-7113-4187-8641-e78dc780193f",
+            "name": "Зимнее меню",
+            "priority": 8,
+            "categoryList": [],
+            "itemList": [
+                {
+                    "guid": "570db666-1c92-4482-a2c5-2b4b0da18152",
+                    "name": "Капучино мандарин",
+                    "priority": 15000,
+                    "typeList": [
+                        {
+                            "guid": "60a06c06-438b-47bd-9a0a-e75da4ef93eb",
+                            "name": "180мл",
+                            "price": 40.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "85e59b0a-5e30-4c5a-8b1a-20f1286661dc",
+                            "name": "350мл",
+                            "price": 70.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "42543b0c-2078-429b-956a-8ae87ee00f23",
+                            "name": "С СОБОЙ 180",
+                            "price": 40.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "86ae4cc3-0f9d-4bd9-ba85-b58796d5ecfb",
+                            "name": "С СОБОЙ 350",
+                            "price": 70.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "9f5ffc57-adbd-4439-8f04-147eb166d9a7",
+                    "name": "Латте тыква",
+                    "priority": 15001,
+                    "typeList": [
+                        {
+                            "guid": "3aa39aa7-b8e9-4a1d-9b97-d4c1be700c9b",
+                            "name": "250мл",
+                            "price": 40.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "0cd79786-bb1d-41a3-be7f-3ad1a0ef5fb2",
+                            "name": "500мл",
+                            "price": 63.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "f43160ce-d232-4b4e-b5b6-4d43b4d05f4a",
+                            "name": "С СОБОЙ 250",
+                            "price": 40.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "90cdf08d-80f1-4cdc-8dba-377f9a872863",
+                            "name": "С СОБОЙ 500",
+                            "price": 63.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "1928b2cd-f4fd-45c3-83a8-66c9ce932aaa",
+                    "name": "Латте орех",
+                    "priority": 15002,
+                    "typeList": [
+                        {
+                            "guid": "f424f585-2dba-4168-80dd-829de581ffe2",
+                            "name": "250мл",
+                            "price": 40.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "5d6d5062-eaa4-4067-ae55-1d38dee1e822",
+                            "name": "500мл",
+                            "price": 63.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "dbd9af7c-ce4f-4f0a-ac07-313595848a9c",
+                            "name": "С СОБОЙ 250",
+                            "price": 40.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "7fb9d984-0222-48d7-90a1-ea1dc5289fec",
+                            "name": "С СОБОЙ 500",
+                            "price": 63.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "10507d9a-588d-4a5d-b623-a0ec6649e8c7",
+                    "name": "Латте кокос",
+                    "priority": 15003,
+                    "typeList": [
+                        {
+                            "guid": "202f614e-b0eb-4873-a177-9fd7c30d4970",
+                            "name": "250мл",
+                            "price": 40.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "ed03fd82-30f2-4377-95c9-20b1b0e8433c",
+                            "name": "500мл",
+                            "price": 63.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "29fcae55-1a56-4483-a4f5-9d55334edc8b",
+                            "name": "С СОБОЙ 250",
+                            "price": 40.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "9f462c47-0465-4e48-ae0f-6bc6d8e9f660",
+                            "name": "С СОБОЙ 500",
+                            "price": 63.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "ac2ce797-32ec-420b-85df-fc3737c50548",
+                    "name": "Латте соленая карамель",
+                    "priority": 15004,
+                    "typeList": [
+                        {
+                            "guid": "89bfe6de-63bf-473a-afb0-710482074d03",
+                            "name": "250мл",
+                            "price": 40.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "d0b2bfd1-0aa5-445f-9f5a-36bafceb8e3a",
+                            "name": "500мл",
+                            "price": 63.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "4628262b-50eb-487d-95ac-0221a00f2bd0",
+                            "name": "С СОБОЙ 250",
+                            "price": 40.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "1e27bb04-fe21-4bf4-b377-d697a644f648",
+                            "name": "С СОБОЙ 500",
+                            "price": 63.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "66b59a4c-40b0-4714-a4ea-bc7a59bb64dc",
+                    "name": "Какао СССР",
+                    "priority": 15005,
+                    "typeList": [
+                        {
+                            "guid": "f0dd78c7-108d-468b-9914-6ce41960634b",
+                            "name": "350мл",
+                            "price": 48.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "61e8e945-475c-40ef-be62-550e842c9d4a",
+                            "name": "С СОБОЙ 350",
+                            "price": 48.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "48507e6f-3a68-4711-8349-c790e6416dc1",
+                    "name": "Какао ЕЖЕВИКА",
+                    "priority": 15006,
+                    "typeList": [
+                        {
+                            "guid": "a181ab0c-bf90-479d-9742-ac0ae1f488a1",
+                            "name": "350мл",
+                            "price": 48.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "19570c14-9c27-49e1-ba5b-17e6cc92958d",
+                            "name": "С СОБОЙ 350",
+                            "price": 48.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "4e8fa951-13c9-4823-a498-971fef6024ee",
+                    "name": "Какао ИМБИРЬ",
+                    "priority": 15007,
+                    "typeList": [
+                        {
+                            "guid": "440def28-ec41-431c-ab87-e0cb62786fca",
+                            "name": "350мл",
+                            "price": 48.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "5f3eb198-1231-4832-9d2f-5e2195c750c4",
+                            "name": "С СОБОЙ 350",
+                            "price": 48.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "c7e28229-bb29-470e-a5ad-8a499f00016c",
+                    "name": "Какао KIDS",
+                    "priority": 15008,
+                    "typeList": [
+                        {
+                            "guid": "eb39465f-ba35-46fc-bea7-7474c4c972b6",
+                            "name": "250мл",
+                            "price": 35.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "fb706b4b-50f4-405d-a80c-a74857a31af7",
+                            "name": "С СОБОЙ 250",
+                            "price": 35.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "59dd9a17-e493-497e-a66e-4c3db559e824",
+                    "name": "Шоколад МЯТА",
+                    "priority": 15009,
+                    "typeList": [
+                        {
+                            "guid": "163564f2-01c1-4b33-9a4d-210aab5ed98b",
+                            "name": "180мл",
+                            "price": 40.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "24f8c492-6ef7-4fbe-a7b7-754a75f61539",
+                            "name": "С СОБОЙ 180",
+                            "price": 40.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "5cbed4b2-1636-4479-b32a-066482fe6549",
+                    "name": "Шоколад РОМ",
+                    "priority": 15010,
+                    "typeList": [
+                        {
+                            "guid": "d2d0a23c-0618-46a8-b528-3471748f6866",
+                            "name": "180мл",
+                            "price": 40.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "e99d173e-53f6-4824-a5fa-319ec5a25521",
+                            "name": "С СОБОЙ 180",
+                            "price": 40.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                }
+            ],
+            "goodsList": [],
+            "comboList": null
+        },
+        {
+            "guid": "b6551c15-1123-40e4-b934-acb486c9b1b5",
+            "name": "Сендвичи",
+            "priority": 6,
+            "categoryList": [],
+            "itemList": [
+                {
+                    "guid": "973388dd-3e43-417a-aed6-228f6681ec0f",
+                    "name": "Американский сендвич",
+                    "priority": 15000,
+                    "typeList": [
+                        {
+                            "guid": "4a0f2205-ca12-4a78-904a-5e0e8d82cc0d",
+                            "name": "ЗДЕСЬ",
+                            "price": 59.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "b06e4e49-2ead-40de-ad1c-43791f0d6667",
+                            "name": "С СОБОЙ",
+                            "price": 59.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                }
+            ],
+            "goodsList": [],
+            "comboList": null
+        },
+        {
+            "guid": "0c529880-bc0b-4f65-a122-90df2f55bd68",
+            "name": "Десерты",
+            "priority": 7,
+            "categoryList": [],
+            "itemList": [
+                {
+                    "guid": "eeb58686-af4d-41b5-a682-5d2c217a4040",
+                    "name": "Баноффи",
+                    "priority": 15002,
+                    "typeList": [
+                        {
+                            "guid": "e2c0a083-0f64-4305-817f-64183130d4b3",
+                            "name": "ЗДЕСЬ",
+                            "price": 55.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "d902b6b4-02dd-40e9-b3d8-7113dd75c126",
+                            "name": "С СОБОЙ",
+                            "price": 55.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "7788710c-d679-4729-a1ae-e8e2712da780",
+                    "name": "Красный бархат",
+                    "priority": 15004,
+                    "typeList": [
+                        {
+                            "guid": "8e4634df-d2d5-495e-ac91-61e44477b674",
+                            "name": "ЗДЕСЬ",
+                            "price": 63.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "14fc192a-7e12-47ae-a373-ab204f5f8ff2",
+                            "name": "С СОБОЙ",
+                            "price": 63.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "f8f50f6b-51fe-4a4f-b7e4-9d600ac1708a",
+                    "name": "Банкейк",
+                    "priority": 15005,
+                    "typeList": [
+                        {
+                            "guid": "32ce0a97-b19f-476e-9539-83e271036f6e",
+                            "name": "ЗДЕСЬ",
+                            "price": 59.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "29380e28-14f4-47c4-adb6-9cfb46c2ce37",
+                            "name": "С СОБОЙ",
+                            "price": 59.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "f7c1dc83-8b1f-415c-946a-68f8e78d6a03",
+                    "name": "Фадж",
+                    "priority": 15007,
+                    "typeList": [
+                        {
+                            "guid": "bc582341-44d4-4ea0-b8aa-02824b4885be",
+                            "name": "ЗДЕСЬ",
+                            "price": 22.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "209ac6df-f09b-491f-bf92-58539b1d7158",
+                            "name": "С СОБОЙ",
+                            "price": 22.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "7d0fb57d-a654-42ad-9297-53c6d7744d54",
+                    "name": "Фундучный торт",
+                    "priority": 15008,
+                    "typeList": [
+                        {
+                            "guid": "87beb9b3-cd4f-4ec8-a5bc-9bf0962bcc79",
+                            "name": "ЗДЕСЬ",
+                            "price": 69.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "ea97c3b0-11c3-4536-8e14-07d1a83b3489",
+                            "name": "С СОБОЙ",
+                            "price": 69.0,
+                            "isTogo": false
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "28bd25e9-0ae0-43c3-83bd-fd2345ae0f56",
+                    "name": "Тирамису",
+                    "priority": 15009,
+                    "typeList": [
+                        {
+                            "guid": "15ba030c-8228-4a6e-b88f-fcfcbdaa32b2",
+                            "name": "ЗДЕСЬ",
+                            "price": 55.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "30d61cf4-7e0f-4d9c-8cd6-844d08c413ab",
+                            "name": "С СОБОЙ",
+                            "price": 55.0,
+                            "isTogo": false
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "ab9e2957-ba7c-4ae8-932c-ebec3489bf27",
+                    "name": "Эскимо",
+                    "priority": 15011,
+                    "typeList": [
+                        {
+                            "guid": "cc7c36ec-7bf2-4efe-8eee-d1fa7daa7f26",
+                            "name": "ЗДЕСЬ",
+                            "price": 59.0,
+                            "isTogo": false
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                }
+            ],
+            "goodsList": [
+                {
+                    "guid": "3ef1a3e0-8bc9-411b-bc2b-e27b15df7766",
+                    "name": "Круассан",
+                    "priority": 20000,
+                    "price": 100.0
+                },
+                {
+                    "guid": "6f4e7199-73d7-4d16-a38d-c4d284bbe8b9",
+                    "name": "Пончик",
+                    "priority": 20001,
+                    "price": 60.0
+                }
+            ],
+            "comboList": null
+        },
+        {
+            "guid": "4af03ba3-a2d5-4011-9f26-8d4d8500f024",
+            "name": "Товары",
+            "priority": 9,
+            "categoryList": [],
+            "itemList": [
+                {
+                    "guid": "02bb01d2-5252-4fd6-a7c8-9d1e4810307b",
+                    "name": "Питчер маленький",
+                    "priority": 15000,
+                    "typeList": [
+                        {
+                            "guid": "4c141578-a8ed-42f9-8071-bd6878d5755a",
+                            "name": "С СОБОЙ",
+                            "price": 350.0,
+                            "isTogo": false
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "d95a93c2-6747-44e0-9f6d-d90c43434555",
+                    "name": "Питчер большой 350",
+                    "priority": 15001,
+                    "typeList": [
+                        {
+                            "guid": "d9abadf9-bca1-43f8-8e66-b9053a77d3a6",
+                            "name": "С СОБОЙ",
+                            "price": 350.0,
+                            "isTogo": false
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "d0a303d9-76bb-4af1-b454-531930dbe271",
+                    "name": "Питчер большой 450",
+                    "priority": 15002,
+                    "typeList": [
+                        {
+                            "guid": "2f1bd6be-6d1d-4e9e-9fbc-de39c10c0258",
+                            "name": "С СОБОЙ",
+                            "price": 450.0,
+                            "isTogo": false
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "c724d8b5-558e-4d38-bc6f-8f28e44415c5",
+                    "name": "Питчер 550",
+                    "priority": 15003,
+                    "typeList": [
+                        {
+                            "guid": "88efa50f-3713-4ad1-9d12-21213fce2e51",
+                            "name": "С СОБОЙ",
+                            "price": 550.0,
+                            "isTogo": false
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "75327e6a-4179-4813-b7df-ec0f9d539423",
+                    "name": "Дрип кофе",
+                    "priority": 15004,
+                    "typeList": [
+                        {
+                            "guid": "58596050-d39b-42e9-ad7f-8f7414f2909e",
+                            "name": "С СОБОЙ",
+                            "price": 27.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "c088fd82-3f8b-4449-be28-14a99e41730e",
+                    "name": "Дрип пак",
+                    "priority": 15005,
+                    "typeList": [
+                        {
+                            "guid": "e3c9e4a7-bc23-4529-8159-9a9d3800a229",
+                            "name": "С СОБОЙ",
+                            "price": 125.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                }
+            ],
+            "goodsList": [
+                {
+                    "guid": "274b1bf0-f331-4377-b1c7-b369f0cd3410",
+                    "name": "Термочашка 210мл",
+                    "priority": 20002,
+                    "price": 170.0
+                },
+                {
+                    "guid": "56472757-25f3-4685-b512-f04af79e9be0",
+                    "name": "Термочашка 310мл",
+                    "priority": 20001,
+                    "price": 220.0
+                },
+                {
+                    "guid": "4d867fe2-becd-418a-a247-dffa4ac751a2",
+                    "name": "Термочашка цветная",
+                    "priority": 20002,
+                    "price": 300.0
+                }
+            ],
+            "comboList": null
+        },
+        {
+            "guid": "554df400-0054-4e07-8412-5bc80c7f37e2",
+            "name": "Cold Brew",
+            "priority": 3,
+            "categoryList": [],
+            "itemList": [
+                {
+                    "guid": "3a703413-aea5-4fec-99f6-3dbc4a7e658b",
+                    "name": "CB classic",
+                    "priority": 15000,
+                    "typeList": [
+                        {
+                            "guid": "19514985-0cb7-4524-9d41-1cb40ea88dba",
+                            "name": "ЗДЕСЬ",
+                            "price": 40.0,
+                            "isTogo": false
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "20fe635c-9b63-4205-ae35-22fcf67577cb",
+                    "name": "CB tonic/rum/juice",
+                    "priority": 15001,
+                    "typeList": [
+                        {
+                            "guid": "2dcd4bf6-a7f7-48d0-9115-2979324c3834",
+                            "name": "ЗДЕСЬ",
+                            "price": 48.0,
+                            "isTogo": false
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "db0bd929-cc5c-494c-8920-f2de3c96dac1",
+                    "name": "CB coconut",
+                    "priority": 15002,
+                    "typeList": [
+                        {
+                            "guid": "90ef503a-9c2c-4632-8e4d-23a68abcaab3",
+                            "name": "ЗДЕСЬ",
+                            "price": 58.0,
+                            "isTogo": false
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "2a06ee06-3cdc-4bfe-9f0a-cbcb0c7046dd",
+                    "name": "Nitro",
+                    "priority": 15003,
+                    "typeList": [
+                        {
+                            "guid": "5f5a9944-6f11-4a00-bb14-fc8629fd7d69",
+                            "name": "350мл",
+                            "price": 55.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "2c2c4803-ae02-468c-9fed-031d295d90ea",
+                            "name": "С СОБОЙ 350",
+                            "price": 55.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                }
+            ],
+            "goodsList": [],
+            "comboList": null
+        },
+        {
+            "guid": "12de627b-56da-4bfa-a12c-780f2b1f3fcb",
+            "name": "Milk Shake",
+            "priority": 4,
+            "categoryList": [],
+            "itemList": [
+                {
+                    "guid": "0dbf995f-f3ad-4051-8ad4-d58390d1055b",
+                    "name": "Банан",
+                    "priority": 15000,
+                    "typeList": [
+                        {
+                            "guid": "faf2b849-4c4e-4dab-91ab-8661e0e52975",
+                            "name": "350мл",
+                            "price": 45.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "01ce1d92-8504-4d40-8c9e-c4a2990c9c1d",
+                            "name": "350мл",
+                            "price": 45.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "3f06920e-564b-4bc3-ba12-126f8dbc8923",
+                    "name": "Малина",
+                    "priority": 15001,
+                    "typeList": [
+                        {
+                            "guid": "8e3f3738-81f7-4fbf-8fd3-12d02c63be6c",
+                            "name": "350мл",
+                            "price": 45.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "c9221d7a-a2bd-4cc6-bccb-bd8d9fb015b6",
+                            "name": "350мл",
+                            "price": 45.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "67e27601-0f11-4879-83bb-2cf7fe2a9b50",
+                    "name": "Клубника",
+                    "priority": 15002,
+                    "typeList": [
+                        {
+                            "guid": "e2a86ec1-5b1a-42f6-a2d8-799a82093589",
+                            "name": "350мл",
+                            "price": 45.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "3ec570a4-be6e-4988-8c7d-3cfdc05e485f",
+                            "name": "350мл",
+                            "price": 45.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "704ee3e3-3152-49d7-b286-6d3e6a93ea90",
+                    "name": "Фисташка",
+                    "priority": 15003,
+                    "typeList": [
+                        {
+                            "guid": "aa9edf79-68c5-4933-a99d-0e9c4517b988",
+                            "name": "350мл",
+                            "price": 45.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "b2bee0f0-5146-4272-9403-85f4471b6984",
+                            "name": "350мл",
+                            "price": 45.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "a9d12a5b-c81a-4a81-ba94-e2355204d8ba",
+                    "name": "Шоколад",
+                    "priority": 15004,
+                    "typeList": [
+                        {
+                            "guid": "b450deda-418c-449f-bf01-d7b70e52f241",
+                            "name": "350мл",
+                            "price": 45.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "908f3799-40cd-4e43-a5b2-fbd17f6b723f",
+                            "name": "350мл",
+                            "price": 45.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                }
+            ],
+            "goodsList": [],
+            "comboList": null
+        },
+        {
+            "guid": "890938f0-e026-4c1b-b2bf-4da231a2a1ea",
+            "name": "Матча напитки",
+            "priority": 5,
+            "categoryList": [],
+            "itemList": [
+                {
+                    "guid": "bf44fbba-4a17-452c-91f9-021f7468750c",
+                    "name": "Синяя с лавандой",
+                    "priority": 15000,
+                    "typeList": [
+                        {
+                            "guid": "09fae294-a1fb-468f-a3c5-cadabeef0671",
+                            "name": "350мл",
+                            "price": 58.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "3e5f6a4e-b812-43db-90e4-ac992cad1f51",
+                            "name": "350мл",
+                            "price": 58.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "5bf1461c-63cb-4bff-b13c-f63d7f73dbe0",
+                    "name": "Розовая с розой",
+                    "priority": 15001,
+                    "typeList": [
+                        {
+                            "guid": "1a9f03df-98c7-41be-a0cb-ff5aec6df653",
+                            "name": "350мл",
+                            "price": 58.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "b5d9da42-335a-4591-8e12-77f6b5dfa1ee",
+                            "name": "350мл",
+                            "price": 58.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "fbea75da-f7b5-48e4-be8c-debee5bfa877",
+                    "name": "Зеленая с мятой",
+                    "priority": 15002,
+                    "typeList": [
+                        {
+                            "guid": "ee140e18-be80-4a69-a154-0b61896e06cd",
+                            "name": "350мл",
+                            "price": 58.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "45c0a8d9-67d8-4ca5-a244-3022c608dd57",
+                            "name": "350мл",
+                            "price": 58.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "88f63f8c-7503-406b-8986-98017ee18171",
+                    "name": "Апельсиновая",
+                    "priority": 15003,
+                    "typeList": [
+                        {
+                            "guid": "6815b7e2-bd7b-4a58-ac11-d0e245e573b5",
+                            "name": "350мл",
+                            "price": 58.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "d64c0736-aa30-49d2-befe-299549a70b2a",
+                            "name": "350мл",
+                            "price": 58.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "81ddfbff-c58a-4bf9-8f17-4daf2baf0b02",
+                    "name": "Тоник",
+                    "priority": 15004,
+                    "typeList": [
+                        {
+                            "guid": "3e2b0718-d2dd-4eb8-aea9-dc0c567c802a",
+                            "name": "350мл",
+                            "price": 58.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "d9964de4-ace3-4511-8099-eb208104f645",
+                            "name": "350мл",
+                            "price": 58.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                }
+            ],
+            "goodsList": [],
+            "comboList": null
+        },
+        {
+            "guid": "2d830758-07b3-485b-a66a-7c3f7564727d",
+            "name": "Лимонады",
+            "priority": 2,
+            "categoryList": [],
+            "itemList": [
+                {
+                    "guid": "4b1cfa2d-c077-43e5-9c9e-49f5deec18f0",
+                    "name": "Маракуя-огурец",
+                    "priority": 15000,
+                    "typeList": [
+                        {
+                            "guid": "912acd90-98ea-403e-9d8b-34b9dfb036f1",
+                            "name": "350мл",
+                            "price": 63.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "46b96c11-03bf-4b1c-80c5-5018e9fd851b",
+                            "name": "350мл",
+                            "price": 63.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "523a4048-dbbd-4939-8cee-47822b03aa2e",
+                    "name": "Арбуз-бергамот",
+                    "priority": 15003,
+                    "typeList": [
+                        {
+                            "guid": "439eb573-021f-4d88-9291-61ef92f9f13e",
+                            "name": "350мл",
+                            "price": 63.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "1ee4e58c-6b6a-45c6-96b1-8dbf8b3126d3",
+                            "name": "350мл",
+                            "price": 63.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "7c24cc48-871e-409d-bea7-43ba5bec41b8",
+                    "name": "Цитрусовый",
+                    "priority": 15004,
+                    "typeList": [
+                        {
+                            "guid": "15f19244-0a27-4408-8174-b0c67d41cae4",
+                            "name": "350мл",
+                            "price": 63.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "dc1963ae-8b66-4e12-96ea-a5243228a6f6",
+                            "name": "350мл",
+                            "price": 63.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "6f9d49b9-a5e7-4c69-9cf9-3796636c1366",
+                    "name": "Крем-сода",
+                    "priority": 15005,
+                    "typeList": [
+                        {
+                            "guid": "bb0844e8-19da-4c38-b899-c1f2a8a9fb50",
+                            "name": "350мл",
+                            "price": 63.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "cd473bf8-976f-4968-81b1-1877be3fc7e9",
+                            "name": "350мл",
+                            "price": 63.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "e3208424-7069-4de3-85bc-04895c5f799d",
+                    "name": "Мохито",
+                    "priority": 15006,
+                    "typeList": [
+                        {
+                            "guid": "9691e24e-c351-4bbe-bd47-7e368480faf8",
+                            "name": "350мл",
+                            "price": 63.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "fc03647e-12b1-4004-b1fe-490c821703cf",
+                            "name": "350мл",
+                            "price": 63.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "eb885c8e-a79f-44b4-b194-bbc03197fc55",
+                    "name": "Малина-гранат",
+                    "priority": 15007,
+                    "typeList": [
+                        {
+                            "guid": "6be55be6-0f4c-431c-a72d-bfc394220146",
+                            "name": "350мл",
+                            "price": 63.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "b2ac22ac-f3d2-46d6-b8c1-93aa5bc17fae",
+                            "name": "350мл",
+                            "price": 63.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "8d33d547-1c67-49a0-a950-bdf5a9958934",
+                    "name": "Классик (лимон)",
+                    "priority": 15008,
+                    "typeList": [
+                        {
+                            "guid": "11acc253-4bc7-49b5-9b34-87d4e24ff98f",
+                            "name": "350мл",
+                            "price": 50.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "94a0921b-66fb-436b-8bd5-1f2a852786ae",
+                            "name": "350мл",
+                            "price": 50.0,
+                            "isTogo": false
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "893e4254-39e3-4156-b051-39142e6f164c",
+                    "name": "Дыня-маракуйя",
+                    "priority": 15010,
+                    "typeList": [
+                        {
+                            "guid": "38c771c7-c40c-4a35-8485-605e71edf55d",
+                            "name": "350мл",
+                            "price": 50.0,
+                            "isTogo": true
+                        },
+                        {
+                            "guid": "e593210f-6716-4612-893a-031861d03497",
+                            "name": "350мл",
+                            "price": 50.0,
+                            "isTogo": false
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                }
+            ],
+            "goodsList": [],
+            "comboList": null
+        },
+        {
+            "guid": "00f69d97-4806-4c30-98fc-daacb86c8ca0",
+            "name": "Холодный кофе",
+            "priority": 1,
+            "categoryList": [],
+            "itemList": [
+                {
+                    "guid": "f86ce6ef-aac8-41e0-aed1-053008c93a09",
+                    "name": "Бамбл",
+                    "priority": 15000,
+                    "typeList": [
+                        {
+                            "guid": "8d4e4c83-be98-4bcb-bcd0-d64ba47b7cd5",
+                            "name": "350мл",
+                            "price": 48.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "413cf2a0-5f05-48d3-ba5d-b91b68add83a",
+                            "name": "350мл",
+                            "price": 48.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "e22ff93f-3e1e-4ab7-9e73-14bf6c25e46b",
+                    "name": "Эспрессо Тоник",
+                    "priority": 15003,
+                    "typeList": [
+                        {
+                            "guid": "15d9e057-4630-49ca-b408-5bfe7f1efd64",
+                            "name": "350мл",
+                            "price": 48.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "b411443a-5bbb-4746-a958-1be08c8fcc90",
+                            "name": "350мл",
+                            "price": 48.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "70e975ff-074a-4312-a416-746ac1dc94fb",
+                    "name": "Айс Латте Брауни",
+                    "priority": 15002,
+                    "typeList": [
+                        {
+                            "guid": "98fa0f3b-8fbf-4e37-880f-c0a80306ef3f",
+                            "name": "350мл",
+                            "price": 55.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "5c78d2e8-4f8f-49d4-acf2-815abf79b34a",
+                            "name": "350мл",
+                            "price": 55.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "1a21ec56-2478-494e-bed4-f169ad31bfe5",
+                    "name": "Ежевичный эспрессо тоник",
+                    "priority": 15004,
+                    "typeList": [
+                        {
+                            "guid": "1248f8fe-ba9c-4a1f-afdb-7fe7a84e9c53",
+                            "name": "350мл",
+                            "price": 53.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "3b103753-1917-48df-82ca-59c6a875a570",
+                            "name": "350мл",
+                            "price": 53.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "433010f6-50e1-4cbd-8b00-1da0fd28fff2",
+                    "name": "Фрапучино",
+                    "priority": 15005,
+                    "typeList": [
+                        {
+                            "guid": "5da7a98c-f17a-4d35-9adb-221bace3eec0",
+                            "name": "350мл",
+                            "price": 58.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "b81e4fbe-c0b2-44fe-9ced-4e66a6417968",
+                            "name": "350мл",
+                            "price": 58.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "c494f9bf-de2f-4bdd-9ff9-244db852f0bb",
+                    "name": "Глясе",
+                    "priority": 15006,
+                    "typeList": [
+                        {
+                            "guid": "9ba4c984-114d-4c96-af64-32f6cd6a9464",
+                            "name": "350мл",
+                            "price": 55.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "90c483a3-a422-4dc9-b35d-f7b09b1a96c5",
+                            "name": "С СОБОЙ 350",
+                            "price": 55.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "de785834-3609-4c6a-b0c8-0a02c7e43cc2",
+                    "name": "Айс Лате",
+                    "priority": 15001,
+                    "typeList": [
+                        {
+                            "guid": "0b882d18-ec2e-4886-8cea-b260d6d7946a",
+                            "name": "350мл",
+                            "price": 50.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "ce141d9d-b892-4e98-b6d3-494ec499085d",
+                            "name": "350мл",
+                            "price": 50.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
+                    "guid": "ecfd8fcd-c9aa-473d-8130-12f894ac0a42",
+                    "name": "Фраппе",
+                    "priority": 15007,
+                    "typeList": [
+                        {
+                            "guid": "da662878-6429-4530-825e-c95a49b69fa0",
+                            "name": "350мл",
+                            "price": 40.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "c4d10b06-e8f4-4401-96ca-210db5151d2a",
+                            "name": "350мл",
+                            "price": 40.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                }
+            ],
+            "goodsList": [],
+            "comboList": null
+        },
+        {
+            "guid": "combo-guid-1",
+            "name": "Комбо-наборы",
+            "priority": 0,
+            "categoryList": [],
+            "itemList": null,
+            "goodsList": null,
+            "comboList": [
+                {
+                    "guid": "30529488-6663-4423-bb5d-7f07ac2d4c8f",
+                    "name": "1 + 1 = 3",
+                    "priority": 0,
+                    "price": null,
+                    "needCustomize": false,
+                    "allowedWeekDay1": true,
+                    "allowedWeekDay2": true,
+                    "allowedWeekDay3": true,
+                    "allowedWeekDay4": true,
+                    "allowedWeekDay5": true,
+                    "allowedWeekDay6": true,
+                    "allowedWeekDay7": true,
+                    "timeFromLimit": null,
+                    "timeToLimit": null,
+                    "isCalcPrice": true,
+                    "itemList": [
+                        {
+                            "type": "MENU_ITEM",
+                            "menuCategoryGuidList": null,
+                            "menuItemGuidList": null,
+                            "menuTypeGuidList": null,
+                            "goodsGuidList": [
+                                "3ef1a3e0-8bc9-411b-bc2b-e27b15df7766"
+                            ],
+                            "price": null,
+                            "discount": null,
+                            "priceType": "price",
+                            "useItemPrice": true
+                        },
+                        {
+                            "type": "MENU_ITEM",
+                            "menuCategoryGuidList": null,
+                            "menuItemGuidList": null,
+                            "menuTypeGuidList": null,
+                            "goodsGuidList": [
+                                "3ef1a3e0-8bc9-411b-bc2b-e27b15df7766"
+                            ],
+                            "price": null,
+                            "discount": null,
+                            "priceType": "price",
+                            "useItemPrice": true
+                        },
+                        {
+                            "type": "MENU_ITEM",
+                            "menuCategoryGuidList": null,
+                            "menuItemGuidList": null,
+                            "menuTypeGuidList": null,
+                            "goodsGuidList": [
+                                "3ef1a3e0-8bc9-411b-bc2b-e27b15df7766"
+                            ],
+                            "price": null,
+                            "discount": 100,
+                            "priceType": "discount",
+                            "useItemPrice": false
+                        }
+                    ],
+                    "useMinPriceForDiscount": true
+                },
+                {
+                    "guid": "a7648f45-8cc4-40b4-b84d-12503472ca60",
+                    "name": "Пончик бесплатно к большому кофе по утрам",
+                    "priority": 1,
+                    "price": 140.0,
+                    "needCustomize": false,
+                    "allowedWeekDay1": true,
+                    "allowedWeekDay2": true,
+                    "allowedWeekDay3": true,
+                    "allowedWeekDay4": true,
+                    "allowedWeekDay5": true,
+                    "allowedWeekDay6": true,
+                    "allowedWeekDay7": true,
+                    "timeFromLimit": "20:00",
+                    "timeToLimit": "23:45",
+                    "isCalcPrice": false,
+                    "itemList": [
+                        {
+                            "type": "MENU_ITEM",
+                            "menuCategoryGuidList": null,
+                            "menuItemGuidList": [
+                                "26f69a6f-ef86-43f1-8839-5466323bd69e",
+                                "62c44db1-85c2-4d4f-9011-8819ac3682a8"
+                            ],
+                            "menuTypeGuidList": [
+                                null
+                            ],
+                            "goodsGuidList": null,
+                            "price": null,
+                            "discount": null,
+                            "priceType": "price",
+                            "useItemPrice": true
+                        },
+                        {
+                            "type": "MENU_ITEM",
+                            "menuCategoryGuidList": null,
+                            "menuItemGuidList": null,
+                            "menuTypeGuidList": null,
+                            "goodsGuidList": [
+                                "6f4e7199-73d7-4d16-a38d-c4d284bbe8b9"
+                            ],
+                            "price": null,
+                            "discount": null,
+                            "priceType": "price",
+                            "useItemPrice": true
+                        }
+                    ],
+                    "useMinPriceForDiscount": false
+                },
+                {
+                    "guid": "4c79f8e6-d387-450d-b23c-b29b21ef758c",
+                    "name": "Второй кофе бесплатно по промокоду XXX",
+                    "priority": 2,
+                    "price": null,
+                    "needCustomize": false,
+                    "allowedWeekDay1": true,
+                    "allowedWeekDay2": true,
+                    "allowedWeekDay3": true,
+                    "allowedWeekDay4": true,
+                    "allowedWeekDay5": true,
+                    "allowedWeekDay6": true,
+                    "allowedWeekDay7": true,
+                    "timeFromLimit": null,
+                    "timeToLimit": null,
+                    "isCalcPrice": true,
+                    "itemList": [
+                        {
+                            "type": "MENU_ITEM",
+                            "menuCategoryGuidList": [
+                                "ad991406-0bf2-46a4-bdcb-734097e2bb9c",
+                                "d1e67443-7113-4187-8641-e78dc780193f"
+                            ],
+                            "menuItemGuidList": null,
+                            "menuTypeGuidList": null,
+                            "goodsGuidList": null,
+                            "price": null,
+                            "discount": null,
+                            "priceType": "price",
+                            "useItemPrice": true
+                        },
+                        {
+                            "type": "MENU_ITEM",
+                            "menuCategoryGuidList": [
+                                "ad991406-0bf2-46a4-bdcb-734097e2bb9c",
+                                "d1e67443-7113-4187-8641-e78dc780193f"
+                            ],
+                            "menuItemGuidList": null,
+                            "menuTypeGuidList": null,
+                            "goodsGuidList": null,
+                            "price": null,
+                            "discount": 100,
+                            "priceType": "discount",
+                            "useItemPrice": false
+                        }
+                    ],
+                    "useMinPriceForDiscount": null
+                },
+                {
+                    "guid": "c50667a6-7c67-4734-94b2-cca60cd320d8",
+                    "name": "2+1",
+                    "priority": 3,
+                    "price": null,
+                    "needCustomize": false,
+                    "allowedWeekDay1": true,
+                    "allowedWeekDay2": true,
+                    "allowedWeekDay3": true,
+                    "allowedWeekDay4": true,
+                    "allowedWeekDay5": true,
+                    "allowedWeekDay6": true,
+                    "allowedWeekDay7": true,
+                    "timeFromLimit": null,
+                    "timeToLimit": null,
+                    "isCalcPrice": true,
+                    "itemList": [
+                        {
+                            "type": "MENU_ITEM",
+                            "menuCategoryGuidList": [
+                                "ad991406-0bf2-46a4-bdcb-734097e2bb9c"
+                            ],
+                            "menuItemGuidList": null,
+                            "menuTypeGuidList": null,
+                            "goodsGuidList": null,
+                            "price": null,
+                            "discount": null,
+                            "priceType": "price",
+                            "useItemPrice": true
+                        },
+                        {
+                            "type": "MENU_ITEM",
+                            "menuCategoryGuidList": [
+                                "ad991406-0bf2-46a4-bdcb-734097e2bb9c"
+                            ],
+                            "menuItemGuidList": null,
+                            "menuTypeGuidList": null,
+                            "goodsGuidList": null,
+                            "price": null,
+                            "discount": null,
+                            "priceType": "price",
+                            "useItemPrice": true
+                        },
+                        {
+                            "type": "MENU_ITEM",
+                            "menuCategoryGuidList": [
+                                "ad991406-0bf2-46a4-bdcb-734097e2bb9c"
+                            ],
+                            "menuItemGuidList": null,
+                            "menuTypeGuidList": null,
+                            "goodsGuidList": null,
+                            "price": 0.0,
+                            "discount": null,
+                            "priceType": "price",
+                            "useItemPrice": false
+                        }
+                    ],
+                    "useMinPriceForDiscount": null
+                },
+                {
+                    "guid": "2a874801-233a-4b2d-858f-1ac3ff1bf3b9",
+                    "name": "Кофе + десерт со скидкой 20%",
+                    "priority": 4,
+                    "price": null,
+                    "needCustomize": false,
+                    "allowedWeekDay1": true,
+                    "allowedWeekDay2": true,
+                    "allowedWeekDay3": true,
+                    "allowedWeekDay4": true,
+                    "allowedWeekDay5": true,
+                    "allowedWeekDay6": true,
+                    "allowedWeekDay7": true,
+                    "timeFromLimit": null,
+                    "timeToLimit": "11:00",
+                    "isCalcPrice": true,
+                    "itemList": [
+                        {
+                            "type": "MENU_ITEM",
+                            "menuCategoryGuidList": null,
+                            "menuItemGuidList": [
+                                "ec2a2007-ce69-4e56-aedf-72cc4dc83160"
+                            ],
+                            "menuTypeGuidList": [
+                                null
+                            ],
+                            "goodsGuidList": null,
+                            "price": null,
+                            "discount": 20,
+                            "priceType": "discount",
+                            "useItemPrice": false
+                        },
+                        {
+                            "type": "MENU_ITEM",
+                            "menuCategoryGuidList": null,
+                            "menuItemGuidList": [
+                                "c6086790-aa07-4bc0-b489-cf824fdb0710"
+                            ],
+                            "menuTypeGuidList": null,
+                            "goodsGuidList": null,
+                            "price": null,
+                            "discount": 20,
+                            "priceType": "discount",
+                            "useItemPrice": false
+                        }
+                    ],
+                    "useMinPriceForDiscount": false
+                }
+            ]
+        }
+    ],
+    "error": null
+}
