@@ -32,60 +32,6 @@
                 "defaultSupplements":[
                    
                 ]
-             },
-             {
-                "guid":"733fa8dc-dea9-4ef2-a3d6-edb5c0c3eb8e",
-                "name":"Американо",
-                "priority":1,
-                "typeList":[
-                   {
-                      "guid":"4a0d08da-ebf3-497f-8e85-7200369c1354",
-                      "name":"250мл",
-                      "price":90,
-                      "isTogo":true
-                   },
-                   {
-                      "guid":"5ef722fd-e933-44a5-a148-7ac97dee589b",
-                      "name":"400мл",
-                      "price":120,
-                      "isTogo":true
-                   }
-                ],
-                "supplementCategoryToFreeCount":{
-                   "ed6fb1b6-8f80-4c28-8216-ed6fb1b6":0,
-                   "794545c2-2dc1-47ee-95a8-4b9f830a":0,
-                   "1584ff15-7b89-458e-99e8-f9dc7dfa":0
-                },
-                "defaultSupplements":[
-                   
-                ]
-             },
-             {
-                "guid":"88f566f9-6546-4794-a2fd-26bbd9e736d7",
-                "name":"Капучино",
-                "priority":2,
-                "typeList":[
-                   {
-                      "guid":"2b1b2bd9-ed7c-4562-858c-b7792f3e8746",
-                      "name":"250мл",
-                      "price":120,
-                      "isTogo":true
-                   },
-                   {
-                      "guid":"9e72f0ee-1f54-40ae-b9b5-a7ba4588b015",
-                      "name":"400мл",
-                      "price":170,
-                      "isTogo":true
-                   }
-                ],
-                "supplementCategoryToFreeCount":{
-                   "ed6fb1b6-8f80-4c28-8216-ed6fb1b6":0,
-                   "794545c2-2dc1-47ee-95a8-4b9f830a":0,
-                   "1584ff15-7b89-458e-99e8-f9dc7dfa":0
-                },
-                "defaultSupplements":[
-                   
-                ]
              }
           ],
           "goodsList":[
