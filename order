@@ -1,0 +1,43 @@
+{
+  "guid": "9c2adf72-b573-437f-b2d5-f6d016a1f130",
+  "shopGuid" : "773feebe-747d-40b8-8480-cac2bb3f25da",
+  "type" : "DELIVERY",
+  "client" : {
+    "name" : "Федор",
+    "cardNumber" : null,
+    "phoneCode" : "+7",
+    "phone" : "9001112233",
+    "email" : "example@ytimes.ru"
+  },
+  "itemList" : [ {
+    "guid" : "39734e1d-5353-4f22-941f-e2d7e7d4ea55",
+    "menuItemGuid" : "f7595624-e026-4720-9bde-22a3daf51a1b",
+    "menuTypeGuid" : "48022c7e-8aab-4151-a219-7cf7f024820f",
+    "supplementList" : {
+      "58da5f2a-8730-417d-9bfb-546aecf01df4" : 1,
+      "574f342a-83ab-4344-8aee-d2beffde1eb2" : 2
+    },
+    "goodsItemGuid" : null,
+    "itemPrice" : 100.0,
+    "supplementPrice" : 30.0,
+    "discountValue" : 25.0,
+    "priceWIthDiscount" : 105.0,
+    "quantity" : 2
+  }, {
+    "guid" : "1584ff15-7b89-458e-99e8-f9dc7dfa83b5",
+    "menuItemGuid" : null,
+    "menuTypeGuid" : null,
+    "supplementList" : null,
+    "goodsItemGuid" : "14e760be-5b16-48b0-936e-ea3d33449bd2",
+    "itemPrice" : 134.0,
+    "supplementPrice" : 0.0,
+    "discountValue" : 24.0,
+    "priceWIthDiscount" : 110.0,
+    "quantity" : 1
+  } ],
+  "discountComment" : "комментарий к скидке",
+  "comment" : "Комментарий к заказу",
+  "paidValue" : 320.0,
+  "printFiscalCheck" : true,
+  "printFiscalCheckEmail" : "email@ytimes.ru"
+}
