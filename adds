@@ -1,0 +1,111 @@
+{
+  "success": true,
+  "count": 3,
+  "rows": [
+    {
+      "guid": "b33596ac-bffa-4f6c-a497-fa753818adcd",
+      "name": "Сиропы",
+      "priority": 0,
+      "allowSeveralItem": true,
+      "maxSelectedCount": 3,
+      "itemList": [
+        {
+          "guid": "c7ef8d4c-f72c-4171-a005-981cd15d4c6d",
+          "name": "Амаретто",
+          "priority": 0,
+          "defaultPrice": 15,
+          "defaultTogoPrice": 15,
+          "menuTypeToPrice": null
+        },
+        {
+          "guid": "59499009-efe4-4bc3-a752-863165ed99e3",
+          "name": "Бабл Гамм",
+          "priority": 1,
+          "defaultPrice": 15,
+          "defaultTogoPrice": 15,
+          "menuTypeToPrice": null
+        },
+        {
+          "guid": "01e80c9e-5cb5-4460-911b-27b0b7cf9050",
+          "name": "Банан",
+          "priority": 2,
+          "defaultPrice": 15,
+          "defaultTogoPrice": 15,
+          "menuTypeToPrice": null
+        }
+      ]
+    },
+    {
+      "guid": "6b21e491-75c0-442d-afd8-7cfdbadefa19",
+      "name": "Молочко",
+      "priority": 1,
+      "allowSeveralItem": false,
+      "maxSelectedCount": 1,
+      "itemList": [
+        {
+          "guid": "a620755d-bc1a-467d-ad6f-98412b981864",
+          "name": "Кокосовое молоко",
+          "priority": 0,
+          "defaultPrice": 0,
+          "defaultTogoPrice": 50,
+          "menuTypeToPrice": {
+            "5ef722fd-e933-44a5-a148-7ac97dee589b": 70
+          }
+        },
+        {
+          "guid": "b492a0df-1a6c-4a0f-b4d1-7d28de1f52ba",
+          "name": "Овсяное молоко",
+          "priority": 1,
+          "defaultPrice": 0,
+          "defaultTogoPrice": 30,
+          "menuTypeToPrice": {
+            "5ef722fd-e933-44a5-a148-7ac97dee589b": 50
+          }
+        },
+        {
+          "guid": "fb280f5a-a0c7-4c2c-9a7a-4b4ea123f6cb",
+          "name": "Соевое молоко",
+          "priority": 2,
+          "defaultPrice": 0,
+          "defaultTogoPrice": 30,
+          "menuTypeToPrice": {
+            "5ef722fd-e933-44a5-a148-7ac97dee589b": 50
+          }
+        }
+      ]
+    },
+    {
+      "guid": "a8f6fa87-f85a-4235-a95f-3efe18678cf2",
+      "name": "Прочее",
+      "priority": 2,
+      "allowSeveralItem": true,
+      "maxSelectedCount": 2,
+      "itemList": [{
+          "guid": "d70f90e3-1f45-4a68-b1b6-9cd76d0bb0be",
+          "name": "Корица",
+          "priority": 4,
+          "defaultPrice": 0,
+          "defaultTogoPrice": 0,
+          "menuTypeToPrice": null
+        },
+        {
+          "guid": "6a83eae5-5585-465f-91b5-5030160dfe15",
+          "name": "Сахар",
+          "priority": 5,
+          "defaultPrice": 0,
+          "defaultTogoPrice": 0,
+          "menuTypeToPrice": null
+        },
+        {
+          "guid": "3e80a05d-f1c9-41b0-952b-4d9a709afdf7",
+          "name": "Молоко",
+          "priority": 6,
+          "defaultPrice": 15,
+          "defaultTogoPrice": 15,
+          "menuTypeToPrice": null
+        }
+      ]
+    }
+  ],
+  "error": null
+}
