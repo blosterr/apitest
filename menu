@@ -866,6 +866,27 @@
             "categoryList": [],
             "itemList": [
                 {
+                    "guid": "c94c4f88-9dc1-4dc1-809e-ec4416a35a6d",
+                    "name": "Чизкейк NY",
+                    "priority": 15000,
+                    "typeList": [
+                        {
+                            "guid": "79245520-4272-44c5-8e70-32a1643bc592",
+                            "name": "ЗДЕСЬ",
+                            "price": 59.0,
+                            "isTogo": false
+                        },
+                        {
+                            "guid": "dc01c162-8797-4df7-97d8-99c06b15596f",
+                            "name": "С СОБОЙ",
+                            "price": 59.0,
+                            "isTogo": true
+                        }
+                    ],
+                    "supplementCategoryToFreeCount": {},
+                    "defaultSupplements": []
+                },
+                {
                     "guid": "eeb58686-af4d-41b5-a682-5d2c217a4040",
                     "name": "Баноффи",
                     "priority": 15002,
@@ -888,7 +909,7 @@
                 },
                 {
                     "guid": "7788710c-d679-4729-a1ae-e8e2712da780",
-                    "name": "Красный бархат",
+                    "name": "Торт",
                     "priority": 15004,
                     "typeList": [
                         {
@@ -950,20 +971,14 @@
                     "defaultSupplements": []
                 },
                 {
-                    "guid": "7d0fb57d-a654-42ad-9297-53c6d7744d54",
-                    "name": "Фундучный торт",
-                    "priority": 15008,
+                    "guid": "c3256aa7-dbe2-4cf6-a168-74d2998071b6",
+                    "name": "Павлова с малиной",
+                    "priority": 15010,
                     "typeList": [
                         {
-                            "guid": "87beb9b3-cd4f-4ec8-a5bc-9bf0962bcc79",
+                            "guid": "0096ddb3-af74-4eba-ad9c-6cc7aeeabaaa",
                             "name": "ЗДЕСЬ",
-                            "price": 69.0,
-                            "isTogo": false
-                        },
-                        {
-                            "guid": "ea97c3b0-11c3-4536-8e14-07d1a83b3489",
-                            "name": "С СОБОЙ",
-                            "price": 69.0,
+                            "price": 50.0,
                             "isTogo": false
                         }
                     ],
@@ -971,56 +986,28 @@
                     "defaultSupplements": []
                 },
                 {
-                    "guid": "28bd25e9-0ae0-43c3-83bd-fd2345ae0f56",
-                    "name": "Тирамису",
-                    "priority": 15009,
+                    "guid": "247c30a6-4b0d-4c79-8dfc-02d0661e3ab2",
+                    "name": "Наполеон",
+                    "priority": 15017,
                     "typeList": [
                         {
-                            "guid": "15ba030c-8228-4a6e-b88f-fcfcbdaa32b2",
+                            "guid": "6dc8b7a9-91e0-4155-8d49-57aa76ec4813",
                             "name": "ЗДЕСЬ",
                             "price": 55.0,
                             "isTogo": false
                         },
                         {
-                            "guid": "30d61cf4-7e0f-4d9c-8cd6-844d08c413ab",
+                            "guid": "57cb3a12-ae5d-493f-954a-e7e433fd8b92",
                             "name": "С СОБОЙ",
-                            "price": 55.0,
-                            "isTogo": false
-                        }
-                    ],
-                    "supplementCategoryToFreeCount": {},
-                    "defaultSupplements": []
-                },
-                {
-                    "guid": "ab9e2957-ba7c-4ae8-932c-ebec3489bf27",
-                    "name": "Эскимо",
-                    "priority": 15011,
-                    "typeList": [
-                        {
-                            "guid": "cc7c36ec-7bf2-4efe-8eee-d1fa7daa7f26",
-                            "name": "ЗДЕСЬ",
-                            "price": 59.0,
-                            "isTogo": false
+                            "price": 50.0,
+                            "isTogo": true
                         }
                     ],
                     "supplementCategoryToFreeCount": {},
                     "defaultSupplements": []
                 }
             ],
-            "goodsList": [
-                {
-                    "guid": "3ef1a3e0-8bc9-411b-bc2b-e27b15df7766",
-                    "name": "Круассан",
-                    "priority": 20000,
-                    "price": 100.0
-                },
-                {
-                    "guid": "6f4e7199-73d7-4d16-a38d-c4d284bbe8b9",
-                    "name": "Пончик",
-                    "priority": 20001,
-                    "price": 60.0
-                }
-            ],
+            "goodsList": [],
             "comboList": null
         },
         {
